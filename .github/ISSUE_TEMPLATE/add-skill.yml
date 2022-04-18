@@ -40,10 +40,10 @@ body:
     id: description
     attributes:
       label: Skill Description
-      description: Describe the skill in a neutral and factual manner. It should explain
+      description: "Describe the skill in a neutral and factual manner. It should explain
       in plain language what the skill does (think Wikipedia).
-      Avoid marketing speak/adjectives (e.g. words like "best","most", "powerful", "intuitive")
-      Avoid usage speak (e.g. "used by thousands")
+      Avoid marketing speak/adjectives (e.g. words like `best`,`most`, `powerful`, `intuitive`)
+      Avoid usage speak (e.g. `used by thousands`)"
     validations:
       required: false
   - type: dropdown
