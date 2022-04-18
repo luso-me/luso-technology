@@ -1,0 +1,9 @@
+{
+  "name": "Groovy",
+  "description": "Groovy is a optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity.",
+  "web_link": "https://groovy-lang.org/",
+  "repo_link": "https://github.com/apache/groovy",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

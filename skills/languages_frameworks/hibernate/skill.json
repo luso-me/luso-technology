@@ -1,0 +1,9 @@
+{
+  "name": "Hibernate",
+  "description": "Hibernate ORM is an object–relational mapping tool for the Java programming language.",
+  "web_link": "https://hibernate.org",
+  "repo_link": "https://github.com/hibernate/hibernate-orm",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

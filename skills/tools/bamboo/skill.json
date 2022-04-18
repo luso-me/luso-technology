@@ -1,0 +1,9 @@
+{
+  "name": "Bamboo",
+  "description": "Bamboo is a continuous integration (CI) server that can be used to automate the release management for a software application, creating a continuous delivery pipeline.",
+  "web_link": "https://www.atlassian.com/software/bamboo",
+  "repo_link": "",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

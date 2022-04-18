@@ -1,0 +1,9 @@
+{
+  "name": "jBPM",
+  "description": "jBPM is an open-source workflow engine written in Java that can execute business processes described in BPMN 2.0. jBPM is a toolkit for building business applications to help automate business processes and decisions.",
+  "web_link": "https://www.jbpm.org",
+  "repo_link": "https://github.com/kiegroup/jbpm",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

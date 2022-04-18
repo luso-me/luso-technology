@@ -1,0 +1,9 @@
+{
+  "name": "Rust",
+  "description": "Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.",
+  "web_link": "https://www.rust-lang.org",
+  "repo_link": "https://github.com/rust-lang/rust",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

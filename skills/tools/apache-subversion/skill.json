@@ -1,0 +1,10 @@
+{
+  "name": "Subversion",
+  "description": "Subversion is an open source centralized version control system.",
+  "web_link": "https://subversion.apache.org",
+  "repo_link": "https://github.com/apache/subversion",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

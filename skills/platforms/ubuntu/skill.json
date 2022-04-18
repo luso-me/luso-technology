@@ -1,0 +1,9 @@
+{
+  "name": "Ubuntu",
+  "description": "Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software.",
+  "web_link": "https://ubuntu.com",
+  "repo_link": "https://code.launchpad.net/ubuntu",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

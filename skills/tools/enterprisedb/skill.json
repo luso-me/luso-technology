@@ -1,0 +1,9 @@
+{
+  "name": "EnterpriseDB",
+  "description": "The EDB Postgres Platform is an enterprise-class data management platform based on the open source database PostgreSQL with flexible deployment options and Oracle compatibility features, complemented by tool kits for management, integration, and migration.",
+  "web_link": "https://www.enterprisedb.com",
+  "repo_link": "https://github.com/EnterpriseDB",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

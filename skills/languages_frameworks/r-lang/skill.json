@@ -1,0 +1,9 @@
+{
+  "name": "R",
+  "description": "R is a programming language for statistical computing and graphics.",
+  "web_link": "https://www.r-project.org",
+  "repo_link": "https://svn.r-project.org/R/trunk",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

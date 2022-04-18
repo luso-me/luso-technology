@@ -1,0 +1,9 @@
+{
+  "name": "Spark",
+  "description": "Apache Spark is an open-source unified analytics engine for large-scale data processing.",
+  "web_link": "https://spark.apache.org/",
+  "repo_link": "https://github.com/apache/spark",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

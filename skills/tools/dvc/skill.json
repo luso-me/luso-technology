@@ -1,0 +1,9 @@
+{
+  "name": "dvc",
+  "description": "Open-source Version Control System for Machine Learning Projects.",
+  "web_link": "https://dvc.org",
+  "repo_link": "https://github.com/iterative/dvc",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Jenkins",
+  "description": "Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software.",
+  "web_link": "https://www.jenkins.io",
+  "repo_link": "https://github.com/jenkinsci/jenkins",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

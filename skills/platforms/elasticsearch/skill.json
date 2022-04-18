@@ -1,0 +1,9 @@
+{
+  "name": "Elasticsearch",
+  "description": "Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.",
+  "web_link": "https://www.elastic.co/elasticsearch",
+  "repo_link": "https://github.com/elastic/elasticsearch",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

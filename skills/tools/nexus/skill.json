@@ -1,0 +1,10 @@
+{
+  "name": "Nexus",
+  "description": "Nexus Repository is an open source repository that supports many artifact formats, including Docker, Java™, and npm.",
+  "web_link": "https://www.sonatype.com/products/repository-oss",
+  "repo_link": "https://github.com/sonatype/nexus-public",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

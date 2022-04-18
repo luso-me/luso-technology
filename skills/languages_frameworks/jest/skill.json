@@ -1,0 +1,9 @@
+{
+  "name": "Jest",
+  "description": "Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.",
+  "web_link": "https://jestjs.io",
+  "repo_link": "https://github.com/facebook/jest",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

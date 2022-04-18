@@ -1,0 +1,9 @@
+{
+  "name": "Apache Airflow",
+  "description": "Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.",
+  "web_link": "https://airflow.apache.org/",
+  "repo_link": "https://github.com/apache/airflow",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

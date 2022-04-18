@@ -1,0 +1,9 @@
+{
+  "name": "Pulumi",
+  "description": "Infrastructure as code that enables you to create, deploy, and manage infrastructure on any cloud, using your favorite languages.",
+  "web_link": "https://www.pulumi.com/",
+  "repo_link": "https://github.com/pulumi/pulumi",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

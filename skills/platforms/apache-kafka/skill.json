@@ -1,0 +1,9 @@
+{
+  "name": "Kafka",
+  "description": "Kafka is an distributed event streaming platform for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.",
+  "web_link": "https://kafka.apache.org/",
+  "repo_link": "https://github.com/apache/kafka",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

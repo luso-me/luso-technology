@@ -1,0 +1,10 @@
+{
+  "name": "PostgreSQL",
+  "description": "Is a free and open-source relational database management system emphasizing extensibility and SQL compliance.",
+  "web_link": "https://www.postgresql.org",
+  "repo_link": "https://github.com/postgres/postgres",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

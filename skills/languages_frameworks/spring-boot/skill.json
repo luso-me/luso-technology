@@ -1,0 +1,9 @@
+{
+  "name": "Spring Boot",
+  "description": "Spring Boot is an open source, microservice-based Java web framework. The Spring Boot framework creates a fully production-ready environment that is completely configurable using its prebuilt code within its codebase.",
+  "web_link": "https://spring.io/projects/spring-boot",
+  "repo_link": "https://github.com/spring-projects/spring-boot",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

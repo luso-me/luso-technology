@@ -1,0 +1,9 @@
+{
+  "name": "Scala",
+  "description": "Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming.",
+  "web_link": "https://www.scala-lang.org",
+  "repo_link": "https://github.com/scala/scala",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

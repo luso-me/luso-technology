@@ -1,0 +1,9 @@
+{
+  "name": "ServiceMix",
+  "description": "ServiceMix is an open-source software project to implement a distributed enterprise service bus.",
+  "web_link": "https://servicemix.apache.org",
+  "repo_link": "https://github.com/apache/servicemix",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

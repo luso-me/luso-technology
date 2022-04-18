@@ -1,0 +1,9 @@
+{
+  "name": "Cypress",
+  "description": "Cypress is an open-source test runner, built for the modern web.",
+  "web_link": "https://www.cypress.io",
+  "repo_link": "https://github.com/cypress-io/cypress",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Bash",
+  "description": "Bash is a Unix shell and command language.",
+  "web_link": "https://www.gnu.org/software/bash",
+  "repo_link": "http://git.savannah.gnu.org/cgit/bash.git",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Akana API Gateway",
+  "description": "Akana API Gateway is an API management tool and reverse proxy that sits between a client and a collection of backend services.",
+  "web_link": "https://www.akana.com/products/api-platform/api-gateway",
+  "repo_link": "",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

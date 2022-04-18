@@ -1,0 +1,9 @@
+{
+  "name": "Svelte",
+  "description": "Svelte is a free and open-source front end compiler.",
+  "web_link": "https://svelte.dev/",
+  "repo_link": "https://github.com/sveltejs/svelte",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

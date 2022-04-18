@@ -1,0 +1,9 @@
+{
+  "name": "WebLogic",
+  "description": "Oracle WebLogic Server is a unified and extensible platform for developing, deploying and running enterprise applications, such as Java, for on-premises and in the cloud.",
+  "web_link": "https://www.oracle.com/java/weblogic",
+  "repo_link": "",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

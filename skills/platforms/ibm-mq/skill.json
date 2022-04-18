@@ -1,0 +1,9 @@
+{
+  "name": "IBM MQ",
+  "description": "IBM MQ is a family of message-oriented middleware products.",
+  "web_link": "https://www.ibm.com/products/mq",
+  "repo_link": "",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

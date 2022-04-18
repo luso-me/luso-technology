@@ -1,0 +1,9 @@
+{
+  "name": "Kubernetes",
+  "description": "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.",
+  "web_link": "https://kubernetes.io",
+  "repo_link": "https://github.com/kubernetes/kubernetes",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

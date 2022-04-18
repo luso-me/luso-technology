@@ -1,0 +1,9 @@
+{
+  "name": "Red Hat Enterprise Linux",
+  "description": "Red Hat Enterprise Linux (RHEL) is a Linux distribution developed by Red Hat for the commercial market.",
+  "web_link": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux",
+  "repo_link": "",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

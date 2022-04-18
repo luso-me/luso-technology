@@ -1,0 +1,9 @@
+{
+  "name": "OpenShift",
+  "description": "An on-premises platform as a service built around Linux containers orchestrated and managed by Kubernetes on a foundation of Red Hat Enterprise Linux.",
+  "web_link": "https://www.redhat.com/en/technologies/cloud-computing/openshift",
+  "repo_link": "",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

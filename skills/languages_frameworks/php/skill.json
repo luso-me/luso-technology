@@ -1,0 +1,9 @@
+{
+  "name": "PHP",
+  "description": "PHP is a general-purpose scripting language geared towards web development.",
+  "web_link": "https://www.php.net",
+  "repo_link": "https://github.com/php/php-src",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

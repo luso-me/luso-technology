@@ -1,0 +1,10 @@
+{
+  "name": "SonarQube",
+  "description": "SonarQube is an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells on 20+ programming languages.",
+  "web_link": "https://www.sonarqube.org",
+  "repo_link": "https://github.com/SonarSource/sonarqube",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

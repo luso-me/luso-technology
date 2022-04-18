@@ -1,0 +1,9 @@
+{
+  "name": "Drools",
+  "description": "Drools is a business rule management system (BRMS) with a forward and backward chaining inference based rules engine, using an enhanced implementation of the Rete algorithm.",
+  "web_link": "https://www.drools.org",
+  "repo_link": "https://github.com/kiegroup/drools",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

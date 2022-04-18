@@ -1,0 +1,123 @@
+{
+  "name": "Spark Starter Kit",
+  "authors": "Hadoop In Real World",
+  "description": "The aim of this course is to give you a strong foundation in Spark.",
+  "web_link": "https://courses.hadoopinrealworld.com/p/spark-starter-kit",
+  "category": "Course",
+  "tags": [
+    "cost::free"
+  ],
+  "community_rating": 5,
+  "duration": "",
+  "estimated_effort": {
+    "min": "",
+    "max": "",
+    "period": ""
+  },
+  "intended_levels": [],
+  "items": [
+    {
+      "name": "Let's get started",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673493",
+      "duration": "PT5M43S"
+    },
+    {
+      "name": "Running Spark on your computer",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673651",
+      "duration": "PT6M35S"
+    },
+    {
+      "name": "Hadoop vs. Spark - who wins?",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673642",
+      "duration": "PT15M30S"
+    },
+    {
+      "name": "Challenges Spark tries to address",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673640",
+      "duration": "PT12M24S"
+    },
+    {
+      "name": "How Spark is faster than Hadoop?",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673645",
+      "duration": "PT8M39S"
+    },
+    {
+      "name": "The need for RDD",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/33879295",
+      "duration": "PT11M29S"
+    },
+    {
+      "name": "What is RDD",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/33879297",
+      "duration": "PT12M30S"
+    },
+    {
+      "name": "What an RDD is not",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673650",
+      "duration": "PT7M31S"
+    },
+    {
+      "name": "First program in Spark",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673647",
+      "duration": "PT16M4S"
+    },
+    {
+      "name": "What are dependencies & why they are important?",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673652",
+      "duration": "PT11M11S"
+    },
+    {
+      "name": "Program to Execution (Part 1)",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673646",
+      "duration": "PT13M1S"
+    },
+    {
+      "name": "Program to Execution (Part 2)",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673644",
+      "duration": "PT19M10S"
+    },
+    {
+      "name": "Memory management",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673648",
+      "duration": "PT15M4S"
+    },
+    {
+      "name": "Fault tolerance",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673641",
+      "duration": "PT7M34S"
+    },
+    {
+      "name": "Introduction to Scala",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673654",
+      "duration": "PT12M5S"
+    },
+    {
+      "name": "First program in Scala (not HelloWorld)",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673655",
+      "duration": "PT11M45S"
+    },
+    {
+      "name": "Scala Functions",
+      "description": "",
+      "web_link": "https://courses.hadoopinrealworld.com/courses/spark-starter-kit/lectures/2673643",
+      "duration": "PT11M43S"
+    }
+  ]
+}
+

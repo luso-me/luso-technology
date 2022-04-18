@@ -1,0 +1,9 @@
+{
+  "name": "Activiti",
+  "description": "Activiti is an open-source workflow engine written in Java that can execute business processes described in BPMN 2.0.",
+  "web_link": "https://www.activiti.org",
+  "repo_link": "https://github.com/Activiti/Activiti",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

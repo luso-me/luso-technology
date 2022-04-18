@@ -1,0 +1,9 @@
+{
+  "name": "Rancher",
+  "description": "Rancher, the open-source multi-cluster orchestration platform, lets operations teams deploy, manage and secure enterprise Kubernetes.",
+  "web_link": "https://rancher.com",
+  "repo_link": "https://github.com/rancher/rancher",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

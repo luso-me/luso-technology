@@ -1,0 +1,9 @@
+{
+  "name": "TypeScript",
+  "description": "TypeScript is a programming language that is a strict syntactical superset of JavaScript and adds optional static typing to the language.",
+  "web_link": "https://www.typescriptlang.org",
+  "repo_link": "https://github.com/microsoft/TypeScript",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

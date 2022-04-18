@@ -1,0 +1,10 @@
+{
+  "name": "Vim",
+  "description": "Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.",
+  "web_link": "https://www.vim.org",
+  "repo_link": "https://github.com/vim/vim",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

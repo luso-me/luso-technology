@@ -1,0 +1,3 @@
+
+useful links:
+real world repo: https://github.com/cypress-io/cypress-realworld-app/blob/develop/cypress/support/commands.ts

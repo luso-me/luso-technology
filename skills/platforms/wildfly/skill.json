@@ -1,0 +1,11 @@
+{
+  "name": "WildFly",
+  "description": "WildFly is a modular & lightweight Java EE application server that helps you build applications.",
+  "web_link": "https://www.wildfly.org",
+  "repo_link": "https://github.com/wildfly/wildfly",
+  "icon_link": "",
+  "tags": [{
+    "alternative_names": ["JBoss"]
+  }],
+  "category": "Platforms"
+}

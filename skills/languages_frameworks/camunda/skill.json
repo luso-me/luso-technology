@@ -1,0 +1,9 @@
+{
+  "name": "Camunda",
+  "description": "Flexible framework for workflow and decision automation with BPMN and DMN.",
+  "web_link": "https://camunda.com",
+  "repo_link": "https://github.com/camunda/camunda-bpm-platform",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

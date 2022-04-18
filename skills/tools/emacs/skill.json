@@ -1,0 +1,9 @@
+{
+  "name": "Emacs",
+  "description": "The extensible, customizable, self-documenting, real-time display editor.",
+  "web_link": "https://www.gnu.org/software/emacs",
+  "repo_link": "https://github.com/emacs-mirror/emacs",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Swagger",
+  "description": "Generate interactive API documentation that lets your users try out the API calls directly in the browser. Use the spec to connect API-related tools to your API.",
+  "web_link": "https://swagger.io",
+  "repo_link": "https://github.com/swagger-api",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

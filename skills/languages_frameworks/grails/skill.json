@@ -1,0 +1,9 @@
+{
+  "name": "Grails",
+  "description": "Grails is an open source web application framework that uses the Groovy programming language.",
+  "web_link": "https://grails.org",
+  "repo_link": "https://github.com/grails/grails-core",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ansible",
+  "description": "Ansible is a IT automation platform that makes your applications and systems easier to deploy and maintain.",
+  "web_link": "https://www.ansible.com/",
+  "repo_link": "https://github.com/ansible/ansible",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

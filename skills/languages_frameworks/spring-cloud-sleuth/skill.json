@@ -1,0 +1,9 @@
+{
+  "name": "Spring Cloud Sleuth",
+  "description": "Spring Cloud Sleuth provides Spring Boot auto-configuration for distributed tracing. Spring Cloud Sleuth is a layer over a Tracer library named Brave.",
+  "web_link": "https://cloud.spring.io/spring-cloud-sleuth/reference/html",
+  "repo_link": "https://github.com/spring-cloud/spring-cloud-sleuth",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

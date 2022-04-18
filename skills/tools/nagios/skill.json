@@ -1,0 +1,10 @@
+{
+  "name": "Nagios",
+  "description": "Nagios monitors the network for problems caused by overloaded data links or network connections, as well as monitoring routers, switches and more.",
+  "web_link": "https://www.nagios.org",
+  "repo_link": "https://github.com/NagiosEnterprises/nagioscore",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

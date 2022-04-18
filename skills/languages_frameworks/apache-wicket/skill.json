@@ -1,0 +1,9 @@
+{
+  "name": "Apache Wicket",
+  "description": "Wicket is a component-based web application framework for the Java programming language.",
+  "web_link": "https://wicket.apache.org/",
+  "repo_link": "https://github.com/apache/wicket",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

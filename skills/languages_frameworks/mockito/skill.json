@@ -1,0 +1,9 @@
+{
+  "name": "Mockito",
+  "description": "Mockito is an open source testing framework for Java that allows the creation of test double objects in automated unit tests for the purpose of test-driven development or behavior-driven development.",
+  "web_link": "https://site.mockito.org",
+  "repo_link": "https://github.com/mockito/mockito",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

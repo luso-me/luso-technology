@@ -1,0 +1,9 @@
+{
+  "name": "Kotlin",
+  "description": "Kotlin is an statically typed programming language that targets the JVM, Android, JavaScript and Native",
+  "web_link": "https://kotlinlang.org/",
+  "repo_link": "https://github.com/JetBrains/kotlin",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

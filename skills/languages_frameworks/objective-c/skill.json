@@ -1,0 +1,10 @@
+{
+  "name": "Objective-C",
+  "description": "Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.",
+  "web_link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
+  "repo_link": "https://github.com/apple-oss-distributions/objc4",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}
+

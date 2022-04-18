@@ -1,0 +1,9 @@
+{
+  "name": "Apache Tomcat",
+  "description": "Apache Tomcat is a free and open-source implementation of the Jakarta Servlet, Jakarta Expression Language, and WebSocket technologies. Tomcat provides a Java HTTP web server environment in which Java code can run.",
+  "web_link": "https://tomcat.apache.org",
+  "repo_link": "https://github.com/apache/tomcat",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Apache ActiveMQ",
+  "description": "ActiveMQ is an open source message broker written in Java together with a full Java Message Service client.",
+  "web_link": "https://activemq.apache.org/",
+  "repo_link": "https://github.com/apache/activemq",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

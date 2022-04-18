@@ -1,0 +1,9 @@
+{
+  "name": "Go",
+  "description": "Go is a statically typed, compiled programming language that is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.",
+  "web_link": "https://go.dev",
+  "repo_link": "https://github.com/golang/go",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

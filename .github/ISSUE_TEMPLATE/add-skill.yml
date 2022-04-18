@@ -1,0 +1,39 @@
+name: Add Skill
+description: Request to add a Skill
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before requesting to add a Skill, please search for the Skill in the existing issues. 
+        
+        ---
+        
+        Thank you for taking the time to add a new Skill, we really appreciate it! 
+        To get the Skill added as fast as possible, we need some information.
+  - type: input
+    id: name
+    attributes:
+      label: Name of the Skill
+      description: "What is the name of the Skill you want to add?"
+      placeholder: "e.g. Python"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Skill Category
+      description: Where is the project located?
+      options:
+        - Languages & Frameworks
+        - Platforms & Services
+        - Techniques
+        - Tools
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Skill Description
+      description: Describe the skill in a neutral and factual manner
+    validations:
+      required: true

@@ -1,0 +1,9 @@
+{
+  "name": "Salt",
+  "description": "Salt is Python-based, open-source software for event-driven IT automation, remote task execution, and configuration management.",
+  "web_link": "https://saltproject.io/",
+  "repo_link": "https://github.com/saltstack/salt",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

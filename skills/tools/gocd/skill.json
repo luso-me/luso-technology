@@ -1,0 +1,9 @@
+{
+  "name": "GoCD",
+  "description": "GoCD is an open source build and release tool from ThoughtWorks.",
+  "web_link": "https://www.gocd.org",
+  "repo_link": "https://github.com/gocd/gocd",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

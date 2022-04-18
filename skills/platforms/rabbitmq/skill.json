@@ -1,0 +1,9 @@
+{
+  "name": "RabbitMQ",
+  "description": "RabbitMQ is a widely deployed open source message broker.",
+  "web_link": "https://www.rabbitmq.com/",
+  "repo_link": "https://github.com/rabbitmq/rabbitmq-server",
+  "icon_link": "",
+  "tags": [],
+  "category": "Platforms"
+}

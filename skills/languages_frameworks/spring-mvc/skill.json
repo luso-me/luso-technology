@@ -1,0 +1,9 @@
+{
+  "name": "Spring MVC",
+  "description": "A Spring MVC is a Java framework which is used to build web applications. It follows the Model-View-Controller design pattern.",
+  "web_link": "https://docs.spring.io/spring-framework/docs/current/reference/html/web.html",
+  "repo_link": "https://github.com/spring-projects/spring-framework/spring-webmvc",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

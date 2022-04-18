@@ -1,0 +1,9 @@
+{
+  "name": "PMD",
+  "description": "PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth.",
+  "web_link": "https://pmd.github.io",
+  "repo_link": "https://github.com/pmd/pmd",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Graylog",
+  "description": "Graylog is a centralized log management solution for capturing, storing, and enabling real-time analysis of terabytes of machine data.",
+  "web_link": "https://www.graylog.org",
+  "repo_link": "https://github.com/Graylog2",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}
+

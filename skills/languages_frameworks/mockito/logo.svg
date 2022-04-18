@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="264.51709"
+   height="114.516"
+   version="1.1"
+   id="svg10496"
+   sodipodi:docname="logo-stripped.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10500" />
+  <sodipodi:namedview
+     id="namedview10498"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.84714234"
+     inkscape:cx="473.94633"
+     inkscape:cy="252.61398"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10496"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <style
+     id="style2"><![CDATA[.B{fill:#5b893d}.C{fill:#f4f4fa}.D{fill:#ceddd4}.E{fill:#496a32}.F{fill:#ecebf4}.G{fill:#e4f3f4}.H{fill:#e5f4f4}.I{fill:#577b38}.J{fill:#fefdfd}.K{fill:#e6f4fc}.L{fill:#40602d}.M{fill:#c5d5c5}.N{fill:#f3ecf5}.O{fill:#e4e4f2}.P{fill:#2c3441}.Q{fill:#ccdccc}.R{fill:#d5e4dc}.S{fill:#cdddd4}.T{fill:#a9c798}.U{fill:#55853c}.V{fill:#e5ebf2}.W{fill:#587b38}.X{fill:#e4ebf2}.Y{fill:#dce4ec}.Z{fill:#668a3c}.a{fill:#5b863c}.b{fill:#edf4fb}.c{fill:#818d9a}.d{fill:#667187}.e{fill:#ebebf3}.f{fill:#b7cbb8}.g{fill:#cee4e5}.h{fill:#6a9847}.i{fill:#769e48}.j{fill:#6a973f}.k{fill:#ecf4f4}.l{fill:#e3eae9}.m{fill:#4d576d}.n{fill:#b6cab8}.o{fill:#cce5e6}.p{fill:#769f48}.q{fill:#79a557}.r{fill:#5a863c}.s{fill:#4d7a39}.t{fill:#5e853b}.u{fill:#fcf4f9}.v{fill:#dcebf3}.w{fill:#ecebf3}.x{fill:#dce3ec}.y{fill:#737da3}.z{fill:#bcd4ba}.AA{fill:#6b9846}.AB{fill:#6d9947}.AC{fill:#4c7938}.AD{fill:#567b38}.AE{fill:#678b3c}.AF{fill:#496a31}.AG{fill:#678c3c}.AH{fill:#e4ecf3}.AI{fill:#fefefe}.AJ{fill:#d5e4e4}.AK{fill:#a5bab4}.AL{fill:#bbd5d8}.AM{fill:#b7c9d6}.AN{fill:#181b26}.AO{fill:#889a69}.AP{fill:#a8ba98}.AQ{fill:#c5d5cd}.AR{fill:#86a987}.AS{fill:#1d252d}.AT{fill:#dde3ec}.AU{fill:#ceded4}.AV{fill:#dceae3}.AW{fill:#85ac59}.AX{fill:#b5d399}.AY{fill:#648a3c}.AZ{fill:#d7e5dc}.Aa{fill:#658a3c}.Ab{fill:#a2c18a}.Ac{fill:#6b973f}.Ad{fill:#395729}.Ae{fill:#31461e}.Af{fill:#f4fafb}.Ag{fill:#dfe5ee}.Ah{fill:#e6f4fb}.Ai{fill:#576178}.Aj{fill:#dce5e4}.Ak{fill:#ddecf3}.Al{fill:#feffff}.Am{fill:#d5e5ec}.An{fill:#cacee0}.Ao{fill:#bcd4c7}.Ap{fill:#ddebf3}.Aq{fill:#505a71}.Ar{fill:#a7c2a8}.As{fill:#87ac87}.At{fill:#d0dccc}.Au{fill:#a9c5a7}.Av{fill:#c2dbae}.Aw{fill:#d4e4db}.Ax{fill:#d3e1d4}.Ay{fill:#b7c8aa}.Az{fill:#e9f4ec}.BA{fill:#e6f4f6}.BB{fill:#c6d4bb}.BC{fill:#7aa557}.BD{fill:#85aa69}.BE{fill:#d6e8f1}.BF{fill:#77a358}.BG{fill:#557b38}.BH{fill:#779a3e}.BI{fill:#769e47}.BJ{fill:#769b3e}.BK{fill:#5d8d3e}.BL{fill:#547b38}.BM{fill:#dbe9e2}.BN{fill:#4e7a39}.BO{fill:#5d8c3e}.BP{fill:#cddcd6}.BQ{fill:#517a38}.BR{fill:#496b32}.BS{fill:#82a23e}.BT{fill:#41622e}.BU{fill:#618b3d}.BV{stroke-miterlimit:10}.BW{fill:#edf4fa}.BX{fill:#eeecf5}.BY{fill:#f4f4f9}.BZ{fill:#e8f2f5}.Ba{fill:#d6dce8}.Bb{fill:#aac4b7}.Bc{fill:#5d677f}.Bd{fill:#f3f4fa}.Be{fill:#6c788b}.Bf{fill:#8894ac}.Bg{fill:#4f5971}.Bh{fill:#d5e4ec}.Bi{fill:#cddcdc}.Bj{fill:#e4ebf3}.Bk{fill:#acc8ca}.Bl{fill:#6f7b8d}.Bm{fill:#a8c1b6}.Bn{fill:#4c566d}.Bo{fill:#cadad5}.Bp{fill:#dce4e4}.Bq{fill:#242a37}.Br{fill:#252b38}.Bs{fill:#262c39}.Bt{fill:#b8c9d6}.Bu{fill:#15181c}.Bv{fill:#c6cbda}.Bw{fill:#c4d5d5}.Bx{fill:#c4d6cc}.By{fill:#c9dcdc}.Bz{fill:#879958}.CA{fill:#e6f4f4}.CB{fill:#e5f3f3}.CC{fill:#b8cbc8}.CD{fill:#c3dbdc}.CE{fill:#566079}.CF{fill:#8895ad}.CG{fill:#b6cbc8}.CH{fill:#779c67}.CI{fill:#6a758a}.CJ{fill:#dae5e4}.CK{fill:#cbdacc}.CL{fill:#cedddb}.CM{fill:#c4d6d5}.CN{fill:#181c26}.CO{fill:#525c74}.CP{fill:#b9d5a7}.CQ{fill:#9bbb89}.CR{fill:#d9ebeb}.CS{fill:#97a668}.CT{fill:#cee7e5}.CU{fill:#c3dad8}.CV{fill:#85ab78}.CW{fill:#86ac78}.CX{fill:#88b37a}.CY{fill:#4a546b}.CZ{fill:#dcebe4}.Ca{fill:#565f79}.Cb{fill:#d9deea}.Cc{fill:#dcebeb}.Cd{fill:#729b5f}.Ce{fill:#b8ccb8}.Cf{fill:#bbd4b9}.Cg{fill:#e5edea}.Ch{fill:#88b279}.Ci{fill:#85a24d}.Cj{fill:#bcd1bb}.Ck{fill:#95abb3}.Cl{fill:#acc8c9}.Cm{fill:#85ac5a}.Cn{fill:#e2eae9}.Co{fill:#ccdcc4}.Cp{fill:#6a783d}.Cq{fill:#a9b7c7}.Cr{fill:#6e9b57}.Cs{fill:#6c9a57}.Ct{fill:#768a39}.Cu{fill:#7da540}.Cv{fill:#4c7a39}.Cw{fill:#8591a6}.Cx{fill:#96ba8b}.Cy{fill:#4f7a39}.Cz{fill:#648b46}.DA{fill:#649346}.DB{fill:#b9cbc7}.DC{fill:#a3b6c5}.DD{fill:#ccdbd6}.DE{fill:#afc9b4}.DF{fill:#72943d}.DG{fill:#83a23e}.DH{fill:#4b6b32}.DI{fill-rule:evenodd}.DJ{fill:#dbe3ea}.DK{fill:#dce4eb}.DL{fill:#ebecf3}.DM{fill:#d9e6ec}.DN{fill:#4c566b}.DO{fill:#616c84}.DP{fill:#eef3f4}.DQ{fill:#dbe5ec}.DR{fill:#cededc}.DS{fill:#e4f2f5}.DT{fill:#e5f3f4}.DU{fill:#b5c8ab}.DV{fill:#a1b7a9}.DW{fill:#646e87}.DX{fill:#555f76}.DY{fill:#626c86}.DZ{fill:#d6dddf}.Da{fill:#626d87}.Db{fill:#cadbe5}.Dc{fill:#8c96b0}.Dd{fill:#272d47}.De{fill:#e0e8e9}.Df{fill:#8995ad}.Dg{fill:#d5e5eb}.Dh{fill:#cadbd8}.Di{fill:#d3e2e1}.Dj{fill:#d5e3e4}.Dk{fill:#c4cbde}.Dl{fill:#c1d8d9}.Dm{fill:#99b79d}.Dn{fill:#636e86}.Do{fill:#e4eaf2}.Dp{fill:#d3e0e6}.Dq{fill:#d3ddd7}.Dr{fill:#2e3642}.Ds{fill:#fefeff}.Dt{fill:#c4d6dc}.Du{fill:#b7cac8}.Dv{fill:#1e252e}.Dw{fill:#bbd6d8}.Dx{fill:#58617b}.Dy{fill:#2b303b}.Dz{fill:#4c566c}.EA{fill:#c7d7d7}.EB{fill:#6b778b}.EC{fill:#555f78}.ED{fill:#c2d5c9}.EE{fill:#b6c7a9}.EF{fill:#c7d9e0}.EG{fill:#c3d4cd}.EH{fill:#ddf0f3}.EI{fill:#e4ecf4}.EJ{fill:#e6eff7}.EK{fill:#d2e5e5}.EL{fill:#626d86}.EM{fill:#9bb998}.EN{fill:#87ab88}.EO{fill:#8aa799}.EP{fill:#57607a}.EQ{fill:#58627b}.ER{fill:#e5e9f2}.ES{fill:#d4e3d3}.ET{fill:#cbdcd4}.EU{fill:#2d354f}.EV{fill:#505973}.EW{fill:#4c576a}.EX{fill:#323944}.EY{fill:#97ba98}.EZ{fill:#7e8b98}.Ea{fill:#a3bfa6}.Eb{fill:#cbdad9}.Ec{fill:#b4cab7}.Ed{fill:#a5bbb4}.Ee{fill:#adc8c8}.Ef{fill:#789148}.Eg{fill:#93b877}.Eh{fill:#dbe8e2}.Ei{fill:#c3dcdd}.Ej{fill:#d9edec}.Ek{fill:#e8f5f0}.El{fill:#d5eae4}.Em{fill:#c5dcdc}.En{fill:#cce3da}.Eo{fill:#cbdcdc}.Ep{fill:#1d242d}.Eq{fill:#b1ced9}.Er{fill:#99a3be}.Es{fill:#9aba89}.Et{fill:#7ba278}.Eu{fill:#3c4456}.Ev{fill:#2e3542}.Ew{fill:#c3cada}.Ex{fill:#d4e3db}.Ey{fill:#d8e6db}.Ez{fill:#d4e3d4}.FA{fill:#c9d9c5}.FB{fill:#545e76}.FC{fill:#4d576e}.FD{fill:#d3e4e4}.FE{fill:#6d788c}.FF{fill:#3d4557}.FG{fill:#d4e4e4}.FH{fill:#2d3541}.FI{fill:#97ba97}.FJ{fill:#83a97c}.FK{fill:#515b72}.FL{fill:#40495b}.FM{fill:#707b8d}.FN{fill:#c7dcdc}.FO{fill:#d6ebea}.FP{fill:#c7dbda}.FQ{fill:#9bb7c2}.FR{fill:#cde4b9}.FS{fill:#aac990}.FT{fill:#aacb8a}.FU{fill:#8bb568}.FV{fill:#8cb568}.FW{fill:#759e5b}.FX{fill:#dae7e3}.FY{fill:#d0ddcc}.FZ{fill:#c9d9cb}.Fa{fill:#b5caa9}.Fb{fill:#eff8f5}.Fc{fill:#ebf6f2}.Fd{fill:#bfd8d7}.Fe{fill:#7aa86a}.Ff{fill:#87aa69}.Fg{fill:#628a46}.Fh{fill:#c5d5c3}.Fi{fill:#a3c28a}.Fj{fill:#a9c18c}.Fk{fill:#3c4454}.Fl{fill:#181b25}.Fm{fill:#89a598}.Fn{fill:#a9c8a0}.Fo{fill:#bcc5d4}.Fp{fill:#8692a9}.Fq{fill:#c7ceda}.Fr{fill:#6c973f}.Fs{fill:#50774b}.Ft{fill:#668b3c}.Fu{fill:#719353}.Fv{fill:#86ad78}.Fw{fill:#779c57}.Fx{fill:#bad5a7}.Fy{fill:#a4c28a}.Fz{fill:#98ba79}.GA{fill:#93b969}.GB{fill:#6f9949}.GC{fill:#6a963f}.GD{fill:#d2ddcc}.GE{fill:#d9e6e4}.GF{fill:#c5d4bb}.GG{fill:#dbe7dc}.GH{fill:#d6e4dc}.GI{fill:#d4e4dc}.GJ{fill:#709c57}.GK{fill:#79a540}.GL{fill:#628759}.GM{fill:#c1d5c9}.GN{fill:#e3ebe9}.GO{fill:#bdd4ba}.GP{fill:#afc998}.GQ{fill:#5d873c}.GR{fill:#d5e4d4}.GS{fill:#719c55}.GT{fill:#78a357}.GU{fill:#669440}.GV{fill:#69954c}.GW{fill:#699740}.GX{fill:#81a957}.GY{fill:#779f48}.GZ{fill:#aac5a6}.Ga{fill:#769e69}.Gb{fill:#c3d6ce}.Gc{fill:#e3ebea}.Gd{fill:#779b3e}.Ge{fill:#78a158}.Gf{fill:#5c873c}.Gg{fill:#88af67}.Gh{fill:#dae9e3}.Gi{fill:#aac69f}.Gj{fill:#b9d4a6}.Gk{fill:#89b078}.Gl{fill:#5c893e}.Gm{fill:#7e899e}.Gn{fill:#7680a2}.Go{fill:#81a969}.Gp{fill:#6c9849}.Gq{fill:#e2eae8}.Gr{fill:#c2d8bf}.Gs{fill:#374a27}.Gt{fill:#5f8644}.Gu{fill:#1d2a1c}.Gv{fill:#75a157}.Gw{fill:#5d9441}.Gx{fill:#5e9441}.Gy{fill:#618c45}.Gz{fill:#638d45}.HA{fill:#a3c28b}.HB{fill:#343c50}.HC{fill:#a5c2a6}.HD{fill:#2b3d28}.HE{fill:#d5e3db}.HF{fill:#7aa458}.HG{fill:#b3cca6}.HH{fill:#a8b7cb}.HI{fill:#9ebf9d}.HJ{fill:#73973e}.HK{fill:#62893c}.HL{fill:#4a6b32}.HM{fill:#72953d}.HN{fill:#76993e}.HO{fill:#5a853c}.HP{fill:#72973e}.HQ{fill:#63893c}.HR{fill:#5e873c}.HS{fill:#668c3c}.HT{fill:#5d853b}.HU{fill:#456730}.HV{stroke-width:1.417}]]></style>
+  <path
+     d="m 3.5085965,17.7085 c 1.7,0.5 2.6,1.3 2.6,2.4 v 1.5 c 3,-2.6 6.3000005,-3.9 9.9000005,-3.9 4.7,0 8.9,2.3 12.4,6.9 1.5,-2.9 4.5,-5 9,-6.5 l 3.1,-0.4 c 5.7,0 10.2,2.9 13.6,8.6 1.1,2.4 1.6,4.7 1.6,6.9 v 21.5 c 0,1.3 -0.9,2.1 -2.6,2.4 h -0.1 c -1.7,-0.3 -2.6,-1.2 -2.6,-2.7 v -20.8 c 0,-4.7 -2.4,-8 -7.1,-9.8 l -1.9,-0.3 h -1.4 c -3.8,0 -6.6,2.3 -8.6,6.9 -0.3,1 -0.4,1.9 -0.4,2.6 v 21.3 c -0.3,1.9 -1.2,2.9 -2.6,2.9 h -0.1 c -1.7,-0.3 -2.6,-1.2 -2.6,-2.6 v -17.7 c 0,-4.9 -0.6,-8 -1.9,-9.2 -2,-2.8 -4.5,-4.1 -7.7,-4.1 h -0.4 c -4.3,0 -7.4000005,2.5 -9.1000005,7.3 -0.3,1.2 -0.4,2.7 -0.4,4.6 v 19.1 c 0,1.4 -0.9,2.3 -2.6,2.6 h -0.2 c -1.4,0 -2.3,-1 -2.59999995,-2.9 l -0.1,-33.3 c 0.2,-2.2 1.09999995,-3.3 2.79999995,-3.3 z m 77.6000005,-0.6 c 4.9,0 9.3,1.9 13.3,5.8 3.8,4.2 5.700003,8.9 5.700003,14.1 0,7.5 -3.300003,13.4 -10.100003,17.6 -2.9,1.5 -5.7,2.3 -8.4,2.3 h -1.1 c -5.1,0 -9.8,-2.5 -14.2,-7.5 -2.7,-4 -4,-8.1 -4,-12.4 0,-6.5 2.7,-11.9 8.1,-16.3 3.4,-2.4 7,-3.6 10.7,-3.6 z m -13.4,19.6 v 0.7 c 0,5.3 2.5,9.5 7.4,12.4 1.8,1 3.7,1.4 5.7,1.4 h 0.8 c 5.2,0 9.2,-2.9 12,-8.6 0.6,-1.8 1,-3.6 1,-5.3 v -0.7 c 0,-4.4 -1.9,-8.2 -5.8,-11.2 -2.3,-1.6 -4.8,-2.5 -7.7,-2.5 -5.7,0 -9.9,3.2 -12.6,9.5 -0.6,1.6 -0.8,3 -0.8,4.3 z m 56.900003,-20 c 4.9,0 9.4,1.9 13.4,5.8 0.3,0.5 0.4,1 0.4,1.5 v 0.2 c -0.3,1.9 -1.2,2.8 -2.6,2.8 h -0.1 c -0.7,0 -2.2,-0.9 -4.5,-2.8 -2.1,-1.1 -4.1,-1.6 -6.1,-1.6 h -0.8 c -5.4,0 -9.5,3 -12.3,9 -0.6,2 -1,3.8 -1,5.4 0,5.8 2.9,10.2 8.5,13.2 1.7,0.7 3.5,1 5.4,1 3.2,0 6.3,-1.4 9.4,-4.1 l 1.1,-0.3 h 0.4 c 1.4,0 2.2,0.9 2.5,2.8 v 0.1 c 0,2 -3,4.2 -8.9,6.6 -2,0.4 -3.5,0.6 -4.5,0.6 h -1.1 c -5.1,0 -9.9,-2.5 -14.3,-7.6 -2.7,-4 -4.1,-8.2 -4.1,-12.5 0,-6.5 2.7,-12 8.2,-16.5 3.7,-2.3 7.3,-3.6 11,-3.6 z m 23.5,-15.99999997 h 0.6 c 1.7,0.39999997 2.6,1.19999997 2.6,2.39999997 v 29.2 l 23.2,-15.9 h 0.7 c 1.5,0 2.4,1 2.7,3.1 0,1.2 -1.5,2.6 -4.5,4.3 l -11.4,7.9 v 0.1 l 15.8,21.1 0.2,0.9 v 0.1 c -0.3,1.9 -1.2,2.8 -2.7,2.8 h -0.3 c -1.1,0 -2.7,-1.7 -5,-5 l -12.7,-16.6 h -0.1 l -5.9,4 v 15.1 c 0,1.5 -0.9,2.4 -2.7,2.7 h -0.2 c -1.3,0 -2.2,-0.9 -2.7,-2.7 l -0.1,-50.7 c 0.4,-1.9 1.2,-2.79999997 2.5,-2.79999997 z"
+     fill="#78a540"
+     stroke="#81a03d"
+     class="BV HV"
+     id="path4" />
+  <path
+     d="m 188.7086,6.4085 c 1.8,0.5 2.7,1.3 2.7,2.5 v 0.9 c 0,1.4 -1,2.2 -2.9,2.5 -1.3,0 -2.1,-1 -2.5,-2.9 0.3,-2 1.2,-2.9 2.7,-3 z m 0,10.1 c 1.8,0.5 2.7,1.3 2.7,2.5 l 0.1,35.2 c 0,1.5 -0.9,2.4 -2.7,2.7 h -0.1 c -1.4,0 -2.3,-1 -2.6,-2.9 l -0.1,-34.1 c 0.2,-2.3 1.1,-3.4 2.7,-3.4 z m 19.5,-14.2 h 0.5 c 1.6,0.4 2.5,1.1 2.5,2.3 v 12.9 h 5.6 l 1.2,-0.2 c 1.3,0 2.1,1 2.6,2.9 0,1.3 -0.8,2.3 -2.3,2.9 l -2,-0.2 h -5.1 v 21.1 c 0,3.7 1.2,5.9 3.4,6.8 l 3.1,0.3 h 1.5 c 1.2,0 2,0.9 2.3,2.7 v 0.1 c -0.3,1.8 -1.2,2.7 -2.6,2.7 h -2.9 c -4.3,0 -7.6,-2.5 -9.7,-7.5 -0.4,-1.2 -0.6,-2.7 -0.6,-4.3 v -22 h -2.7 l -2.2,0.2 c -1.5,-0.6 -2.3,-1.5 -2.3,-2.9 0.3,-1.8 1.1,-2.7 2.5,-2.7 h 1.4 3.4 v -12.1 c 0.3,-1.9 1.1,-3 2.4,-3 z m 36.6,14.6 c 4.9,0 9.3,1.9 13.3,5.8 3.8,4.2 5.7,8.9 5.7,14.1 0,7.5 -3.3,13.4 -10.1,17.6 -2.9,1.5 -5.7,2.3 -8.4,2.3 h -1.1 c -5.1,0 -9.8,-2.5 -14.2,-7.5 -2.7,-4 -4,-8.1 -4,-12.4 0,-6.5 2.7,-11.9 8.1,-16.3 3.3,-2.4 6.9,-3.6 10.7,-3.6 z m -13.4,19.5 v 0.7 c 0,5.3 2.5,9.5 7.4,12.4 1.8,1 3.7,1.4 5.7,1.4 h 0.8 c 5.2,0 9.2,-2.9 12,-8.6 0.6,-1.8 1,-3.6 1,-5.3 v -0.7 c 0,-4.4 -1.9,-8.2 -5.8,-11.2 -2.3,-1.6 -4.8,-2.5 -7.7,-2.5 -5.7,0 -9.9,3.2 -12.6,9.5 -0.6,1.6 -0.8,3 -0.8,4.3 z"
+     stroke="#000000"
+     class="BV HV"
+     id="path6" />
+  <linearGradient
+     id="A"
+     gradientUnits="userSpaceOnUse"
+     x1="63.769001"
+     y1="181.668"
+     x2="63.876999"
+     y2="141.97301"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset=".296"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop8" />
+    <stop
+       offset=".614"
+       stop-color="#bfbfc1"
+       stop-opacity=".181"
+       id="stop10" />
+    <stop
+       offset=".871"
+       stop-color="#919194"
+       stop-opacity=".327"
+       id="stop12" />
+    <stop
+       offset="1"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop14" />
+  </linearGradient>
+  <path
+     fill="url(#A)"
+     d="m 0.80859655,94.9085 -0.1,-33.3 c 0.29999995,-1.9 1.19999995,-2.9 2.59999995,-2.9 h 0.1 c 1.7,0.3 2.6,1.2 2.6,2.6 l 0.1,19.1 c 0,1.9 0.1,3.4 0.4,4.6 1.8,4.9 4.8000005,7.3 9.2000005,7.3 h 0.4 c 3.2,0 5.7,-1.4 7.7,-4.2 1.3,-1.2 1.9,-4.3 1.9,-9.2 v -17.7 c 0,-1.4 0.9,-2.3 2.6,-2.6 h 0.1 c 1.4,0 2.2,0.9 2.6,2.9 l 0.1,21.3 c 0,0.7 0.1,1.6 0.4,2.6 2,4.6 4.9,6.9 8.7,6.9 h 1.4 l 1.9,-0.3 c 4.7,-1.8 7.1,-5.1 7.1,-9.8 l -0.2,-20.8 c 0,-1.5 0.9,-2.4 2.6,-2.8 h 0.1 c 1.7,0.4 2.6,1.2 2.6,2.4 l 0.1,21.5 c 0,2.2 -0.5,4.5 -1.6,6.9 -3.3,5.8 -7.8,8.6 -13.5,8.7 l -3.1,-0.4 c -4.5,-1.4 -7.6,-3.6 -9,-6.4 -3.6,4.6 -7.7,6.9 -12.4,6.9 -3.5,0 -6.8000005,-1.3 -9.9000005,-3.9 v 1.4 c 0,1.2 -0.9,2 -2.6,2.4 -1.8,0.1 -2.7,-1 -2.89999995,-3.2 z"
+     id="path17"
+     style="fill:url(#A)" />
+  <linearGradient
+     id="B"
+     gradientUnits="userSpaceOnUse"
+     x1="116.665"
+     y1="181.849"
+     x2="116.772"
+     y2="141.959"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset=".296"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop19" />
+    <stop
+       offset=".614"
+       stop-color="#bfbfc1"
+       stop-opacity=".181"
+       id="stop21" />
+    <stop
+       offset=".871"
+       stop-color="#919194"
+       stop-opacity=".327"
+       id="stop23" />
+    <stop
+       offset="1"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop25" />
+  </linearGradient>
+  <path
+     fill="url(#B)"
+     d="m 70.408597,94.8085 c -5.4,-4.4 -8.2,-9.8 -8.2,-16.3 0,-4.3 1.3,-8.4 4,-12.4 4.4,-5.1 9.1,-7.6 14.2,-7.6 h 1.1 c 2.7,0 5.5,0.8 8.5,2.3 6.7,4.3 10.100003,10.1 10.100003,17.6 0,5.2 -1.900003,9.9 -5.600003,14.1 -4,3.9 -8.4,5.9 -13.3,5.9 -3.7,0.1 -7.3,-1.1 -10.8,-3.6 z m -2,-11.6 c 2.7,6.3 6.9,9.4 12.6,9.4 2.9,0 5.5,-0.8 7.7,-2.5 3.9,-3 5.8,-6.8 5.8,-11.2 v -0.7 c 0,-1.7 -0.3,-3.4 -1,-5.2 -2.8,-5.7 -6.8,-8.6 -12,-8.5 h -0.8 c -2,0 -3.9,0.5 -5.7,1.5 -4.9,2.9 -7.3,7.1 -7.3,12.4 v 0.7 c 0,1.2 0.2,2.6 0.7,4.1 z"
+     id="path28"
+     style="fill:url(#B)" />
+  <linearGradient
+     id="C"
+     gradientUnits="userSpaceOnUse"
+     x1="157.61"
+     y1="182.032"
+     x2="157.718"
+     y2="141.827"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset=".296"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop30" />
+    <stop
+       offset=".614"
+       stop-color="#bfbfc1"
+       stop-opacity=".181"
+       id="stop32" />
+    <stop
+       offset=".871"
+       stop-color="#919194"
+       stop-opacity=".327"
+       id="stop34" />
+    <stop
+       offset="1"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop36" />
+  </linearGradient>
+  <path
+     fill="url(#C)"
+     d="m 113.8086,95.0085 c -5.5,-4.4 -8.3,-9.9 -8.3,-16.4 0,-4.3 1.3,-8.4 4,-12.5 4.4,-5.1 9.2,-7.7 14.3,-7.7 h 1.1 c 1,0 2.5,0.2 4.5,0.6 6,2.4 8.9,4.6 9,6.6 v 0.1 c -0.3,1.9 -1.1,2.8 -2.5,2.8 h -0.4 l -1.1,-0.3 c -3.1,-2.7 -6.3,-4.1 -9.5,-4.1 -1.9,0 -3.7,0.3 -5.4,1 -5.7,3 -8.5,7.4 -8.5,13.2 0,1.6 0.3,3.4 1,5.4 2.8,6 6.9,9 12.3,8.9 h 0.8 c 2,0 4.1,-0.6 6.1,-1.7 2.3,-1.9 3.8,-2.8 4.5,-2.8 h 0.1 c 1.4,0 2.3,0.9 2.7,2.8 v 0.2 c 0,0.5 -0.1,1 -0.4,1.5 -4,3.9 -8.5,5.9 -13.4,5.9 -3.7,0.1 -7.3,-1.1 -10.9,-3.5 z"
+     id="path39"
+     style="fill:url(#C)" />
+  <linearGradient
+     id="D"
+     gradientUnits="userSpaceOnUse"
+     x1="197.306"
+     y1="198.034"
+     x2="197.45799"
+     y2="141.804"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset=".296"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop41" />
+    <stop
+       offset=".614"
+       stop-color="#bfbfc1"
+       stop-opacity=".181"
+       id="stop43" />
+    <stop
+       offset=".871"
+       stop-color="#919194"
+       stop-opacity=".327"
+       id="stop45" />
+    <stop
+       offset="1"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop47" />
+  </linearGradient>
+  <path
+     fill="url(#D)"
+     d="m 145.8086,111.8085 -0.1,-50.7 c 0.4,-1.8 1.3,-2.7 2.7,-2.7 h 0.1 c 1.8,0.3 2.7,1.2 2.7,2.7 v 15.1 l 5.9,4 h 0.1 l 12.6,-16.7 c 2.2,-3.4 3.8,-5 4.9,-5 h 0.3 c 1.5,0 2.4,0.9 2.7,2.8 v 0.1 l -0.1,0.9 -15.7,21.1 v 0.1 c 0.3,0.1 4.1,2.7 11.5,7.8 3,1.7 4.5,3.1 4.5,4.3 -0.3,2.1 -1.2,3.1 -2.7,3.1 h -0.7 c -2.2,-1.3 -10,-6.6 -23.3,-15.8 l 0.1,29.2 c 0,1.2 -0.8,2 -2.6,2.4 h -0.6 c -1.1,0.1 -1.9,-0.8 -2.3,-2.7 z"
+     id="path50"
+     style="fill:url(#D)" />
+  <linearGradient
+     id="E"
+     gradientUnits="userSpaceOnUse"
+     x1="224.26601"
+     y1="192.043"
+     x2="224.40199"
+     y2="141.653"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset=".296"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop52" />
+    <stop
+       offset=".614"
+       stop-color="#bfbfc1"
+       stop-opacity=".181"
+       id="stop54" />
+    <stop
+       offset=".871"
+       stop-color="#919194"
+       stop-opacity=".327"
+       id="stop56" />
+    <stop
+       offset="1"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop58" />
+  </linearGradient>
+  <path
+     fill="url(#E)"
+     d="m 186.0086,95.3085 -0.1,-34.1 c 0.3,-2 1.2,-2.9 2.6,-2.9 h 0.1 c 1.8,0.3 2.7,1.2 2.7,2.7 l 0.1,35.2 c 0,1.2 -0.9,2 -2.7,2.5 -1.5,-0.1 -2.4,-1.2 -2.7,-3.4 z m 0.1,10.4 c 0.4,-2 1.3,-2.9 2.5,-2.9 2,0.3 2.9,1.1 2.9,2.5 v 0.9 c 0,1.2 -0.9,2 -2.7,2.5 -1.4,-0.1 -2.4,-1 -2.7,-3 z"
+     id="path61"
+     style="fill:url(#E)" />
+  <linearGradient
+     id="F"
+     gradientUnits="userSpaceOnUse"
+     x1="245.681"
+     y1="196.067"
+     x2="245.828"
+     y2="141.541"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset=".296"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop63" />
+    <stop
+       offset=".614"
+       stop-color="#bfbfc1"
+       stop-opacity=".181"
+       id="stop65" />
+    <stop
+       offset=".871"
+       stop-color="#919194"
+       stop-opacity=".327"
+       id="stop67" />
+    <stop
+       offset="1"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop69" />
+  </linearGradient>
+  <path
+     fill="url(#F)"
+     d="m 206.0086,109.5085 v -12.1 h -3.4 l -1.4,0.2 v -0.2 c -1.3,0 -2.2,-0.9 -2.5,-2.7 0,-1.3 0.8,-2.3 2.3,-2.9 l 2.2,0.2 h 2.7 l -0.1,-22 c 0,-1.6 0.2,-3.1 0.5,-4.3 2.1,-5 5.3,-7.5 9.7,-7.5 h 2.9 c 1.4,0 2.3,0.9 2.6,2.7 v 0.1 c -0.3,1.8 -1.1,2.7 -2.3,2.8 h -1.5 l -3.1,0.3 c -2.3,0.8 -3.4,3.1 -3.4,6.8 l 0.1,21.1 h 5.1 l 2,-0.2 c 1.5,0.6 2.3,1.5 2.3,2.9 -0.4,1.9 -1.3,2.9 -2.6,2.9 l -1.2,-0.2 h -5.6 v 12.9 c 0,1.2 -0.8,1.9 -2.4,2.3 h -0.5 c -1.4,0.1 -2.1,-1 -2.4,-3.1 z"
+     id="path72"
+     style="fill:url(#F)" />
+  <linearGradient
+     id="G"
+     gradientUnits="userSpaceOnUse"
+     x1="280.33801"
+     y1="181.381"
+     x2="280.44501"
+     y2="141.49001"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset=".296"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop74" />
+    <stop
+       offset=".614"
+       stop-color="#bfbfc1"
+       stop-opacity=".181"
+       id="stop76" />
+    <stop
+       offset=".871"
+       stop-color="#919194"
+       stop-opacity=".327"
+       id="stop78" />
+    <stop
+       offset="1"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop80" />
+  </linearGradient>
+  <path
+     fill="url(#G)"
+     d="m 234.0086,94.4085 c -5.4,-4.4 -8.2,-9.8 -8.2,-16.3 0,-4.3 1.3,-8.4 4,-12.4 4.4,-5.1 9.1,-7.6 14.2,-7.6 h 1.1 c 2.7,0 5.5,0.8 8.5,2.3 6.7,4.3 10.1,10.1 10.1,17.6 0,5.2 -1.9,9.9 -5.6,14.1 -4,3.9 -8.4,5.9 -13.3,5.9 -3.7,0 -7.3,-1.2 -10.8,-3.6 z m -1.9,-11.7 c 2.7,6.3 6.9,9.4 12.6,9.4 2.9,0 5.5,-0.8 7.7,-2.5 3.9,-3 5.8,-6.8 5.8,-11.2 v -0.7 c 0,-1.7 -0.3,-3.4 -1,-5.2 -2.8,-5.7 -6.8,-8.6 -12,-8.5 h -0.8 c -2,0 -3.9,0.5 -5.7,1.5 -4.9,2.9 -7.3,7.1 -7.3,12.4 v 0.7 c 0,1.2 0.2,2.6 0.7,4.1 z"
+     id="path83"
+     style="fill:url(#G)" />
+  <radialGradient
+     id="H"
+     cx="291.91901"
+     cy="143.55"
+     r="20.073"
+     gradientTransform="matrix(1.2779,0.0615,-0.01845946,0.3834,-48.6326,73.5833)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#abc7c8"
+       id="stop85" />
+    <stop
+       offset=".398"
+       stop-color="#acc7c8"
+       id="stop87" />
+    <stop
+       offset=".816"
+       stop-color="#d9e5e8"
+       stop-opacity=".286"
+       id="stop89" />
+    <stop
+       offset=".984"
+       stop-color="#edf5fb"
+       stop-opacity="0"
+       id="stop91" />
+  </radialGradient>
+  <linearGradient
+     id="I"
+     gradientUnits="userSpaceOnUse"
+     x1="293.181"
+     y1="97.510002"
+     x2="362.478"
+     y2="97.510002">
+    <stop
+       offset="0"
+       id="stop9436" />
+    <stop
+       offset=".135"
+       stop-color="#0f0f10"
+       id="stop9438" />
+    <stop
+       offset=".262"
+       stop-color="#2d2d2e"
+       id="stop9440" />
+    <stop
+       offset=".386"
+       stop-color="#49494b"
+       id="stop9442" />
+    <stop
+       offset=".507"
+       stop-color="#606164"
+       id="stop9444" />
+    <stop
+       offset=".627"
+       stop-color="#7b7d7f"
+       id="stop9446" />
+    <stop
+       offset=".746"
+       stop-color="#9b9d9f"
+       id="stop9448" />
+    <stop
+       offset=".864"
+       stop-color="#c3c5c7"
+       id="stop9450" />
+    <stop
+       offset=".979"
+       stop-color="#f2f3f3"
+       id="stop9452" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       id="stop9454" />
+  </linearGradient>
+  <linearGradient
+     id="J"
+     gradientUnits="userSpaceOnUse"
+     x1="-354.27701"
+     y1="-313.94299"
+     x2="-354.272"
+     y2="-315.948"
+     gradientTransform="translate(-35.591403,-83.3915)">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop9459" />
+    <stop
+       offset=".952"
+       stop-color="#7f8083"
+       stop-opacity=".4"
+       id="stop9461" />
+  </linearGradient>
+  <path
+     fill="url(#J)"
+     d="m -390.8914,-399.2915 h 2 v 2 h -2 z"
+     id="path9464"
+     style="fill:url(#J)" />
+  <linearGradient
+     gradientUnits="userSpaceOnUse"
+     x1="312.45999"
+     y1="43.710999"
+     x2="312.45999"
+     y2="43.710999"
+     id="linearGradient10494">
+    <stop
+       offset="0"
+       id="stop10474" />
+    <stop
+       offset=".135"
+       stop-color="#0f0f10"
+       id="stop10476" />
+    <stop
+       offset=".262"
+       stop-color="#2d2d2e"
+       id="stop10478" />
+    <stop
+       offset=".386"
+       stop-color="#49494b"
+       id="stop10480" />
+    <stop
+       offset=".507"
+       stop-color="#606164"
+       id="stop10482" />
+    <stop
+       offset=".627"
+       stop-color="#7b7d7f"
+       id="stop10484" />
+    <stop
+       offset=".746"
+       stop-color="#9b9d9f"
+       id="stop10486" />
+    <stop
+       offset=".864"
+       stop-color="#c3c5c7"
+       id="stop10488" />
+    <stop
+       offset=".979"
+       stop-color="#f2f3f3"
+       id="stop10490" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       id="stop10492" />
+  </linearGradient>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "name": "Artifactory",
+  "description": "Artifactory is a repository manager that supports all available software package types, enabling automated continous integration and delivery.",
+  "web_link": "https://jfrog.com/artifactory",
+  "repo_link": "",
+  "icon_link": "",
+  "tags": [],
+  "category": "Tools"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "EasyMock",
+  "description": "EasyMock is an open-source testing framework for Java that allows for the creation of test double objects for the purpose of Test-driven Development or Behavior Driven Development.",
+  "web_link": "https://easymock.org",
+  "repo_link": "https://github.com/easymock/easymock",
+  "icon_link": "",
+  "tags": [],
+  "category": "Languages & Frameworks"
+}
