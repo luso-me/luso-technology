@@ -19,6 +19,33 @@ body:
       placeholder: "e.g. Python"
     validations:
       required: true
+  - type: input
+    id: weblink
+    attributes:
+      label: Link to the skill
+      description: "Official link to the Skill or Wikipedia entry"
+      placeholder: "e.g. https://www.python.org/"
+    validations:
+      required: true
+  - type: input
+    id: repolink
+    attributes:
+      label: Link to Source Code Repo (if any)
+      description: "For non-github repos, try to find a github official mirror, if no 
+      github official mirror exists, link official repo"
+      placeholder: "e.g. https://github.com/python/cpython"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Skill Description
+      description: Describe the skill in a neutral and factual manner. It should explain
+      in plain language what the skill does (think Wikipedia).
+      Avoid marketing speak/adjectives (e.g. words like "best","most", "powerful", "intuitive")
+      Avoid usage speak (e.g. "used by thousands")
+    validations:
+      required: false
   - type: dropdown
     id: category
     attributes:
@@ -29,12 +56,6 @@ body:
         - Platforms & Services
         - Techniques
         - Tools
-    validations:
-      required: true
-  - type: textarea
-    id: description
-    attributes:
-      label: Skill Description
-      description: Describe the skill in a neutral and factual manner
+        - Not Sure
     validations:
       required: true
