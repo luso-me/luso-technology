@@ -8,7 +8,7 @@ body:
         
         ---
         
-        Thank you for taking the time to add a new Skill, we really appreciate it! 
+        Thank you for taking the time to request that we add a new Skill, we really appreciate it! 
         
         To get the Skill added as fast as possible, we need some information.
   - type: input
@@ -50,7 +50,7 @@ body:
     id: category
     attributes:
       label: Skill Category
-      description: Categories that a particular skill falls into. See https://example.com
+      description: "Categories that a particular skill falls into. See https://github.com/luso-me/luso-technology/blob/master/docs/categories.md"
       options:
         - Languages & Frameworks
         - Platforms & Services
