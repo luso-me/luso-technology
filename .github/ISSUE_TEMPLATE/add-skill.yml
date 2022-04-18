@@ -28,6 +28,20 @@ body:
       placeholder: "e.g. https://www.python.org/"
     validations:
       required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Skill Category
+      description: "Categories that a particular skill falls into. 
+      See https://github.com/luso-me/luso-technology/blob/master/docs/categories.md"
+      options:
+        - Languages & Frameworks
+        - Platforms & Services
+        - Techniques
+        - Tools
+        - Not Sure
+    validations:
+      required: true
   - type: input
     id: repolink
     attributes:
@@ -48,17 +62,13 @@ body:
       Avoid usage speak (e.g. `used by thousands`)"
     validations:
       required: false
-  - type: dropdown
-    id: category
+  - type: input
+    id: iconlink
     attributes:
-      label: Skill Category
-      description: "Categories that a particular skill falls into. 
-      See https://github.com/luso-me/luso-technology/blob/master/docs/categories.md"
-      options:
-        - Languages & Frameworks
-        - Platforms & Services
-        - Techniques
-        - Tools
-        - Not Sure
+      label: Link to Icon (SVG)
+      description: "A link to the Icon for the Skill. Ideally to the SVG version. If you 
+      can only find another version (you can still link it). Not every skill is going to 
+      have an icon, we auto-generate an icon in the event that one isn't provided."
+      placeholder: "e.g. https://www.python.org/static/community_logos/python-logo-generic.svg"
     validations:
-      required: true
+      required: false
