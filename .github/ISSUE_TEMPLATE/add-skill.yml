@@ -69,6 +69,6 @@ body:
       description: "A link to the Icon for the Skill. Ideally to the SVG version. If you 
       can only find another version (you can still link it). Not every skill is going to 
       have an icon, we auto-generate an icon in the event that one isn't provided."
-      placeholder: "e.g. https://www.python.org/static/community_logos/python-logo-generic.svg"
+      placeholder: "e.g. https://cdn.worldvectorlogo.com/logos/python-3.svg"
     validations:
       required: false

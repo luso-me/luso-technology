@@ -8,7 +8,7 @@ The four top level categories are fixed for now.
 
 ## Approach
 
-If you find a sub-category that we missed, please open an issue in this repo, so we can 
+If you find a sub-category that we missed, please open an issue in this repo, so we can
 have a look at it.
 
 ## Languages & Frameworks
@@ -46,17 +46,18 @@ have a look at it.
 
 ## Tools
 
-|Name|Examples|
-|---|---|
-|databases & cms||
-|version control systems||
-|ide's / editors||
-|drawing tools||
-|communication||
-|ci/cd & build & build-chain tools||
-|artifact repositories||
-|monitoring||
-|distributed tracing & logging||
-|testing tools (e2e, web)||
-|infrastructure provisioning||
-|etl||
+| Name                              | Examples                     |
+|-----------------------------------|------------------------------|
+| Databases                         | Oracle, MongoDB, Cassandra   |
+| Content Management Systems        | Alfresco, Hippo              |
+| Version Control Systems           | git, Subversion, CVS         |
+| IDE's / Editors                   | IntelliJ, Vim, Emacs, VSCode |
+| Drawing tools                     | Sparx EA, ArchiMate          |
+| Communication                     ||
+| CI/CD & build & build-chain tools | Jenkins                      |
+| Artifact Repositories             | Nexus, Artifactory           |
+| Monitoring                        ||
+| Distributed tracing & logging     | Jaeger                       |
+| Testing Tools (E2E, Web)          | Cypress                      |
+| Infrastructure Provisioning       | Terraform, Pulumi            |
+| ETL                               | Airflow                      |
