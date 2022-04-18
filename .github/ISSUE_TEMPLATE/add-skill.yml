@@ -23,7 +23,8 @@ body:
     id: weblink
     attributes:
       label: Link to the skill
-      description: "Official link to the Skill or Wikipedia entry"
+      description: "Official link to the Skill or Wikipedia entry. 
+      Try to avoid country/language specific urls if possible. Otherwise, default to EN."
       placeholder: "e.g. https://www.python.org/"
     validations:
       required: true
@@ -42,7 +43,8 @@ body:
       label: Skill Description
       description: "Describe the skill in a neutral and factual manner. It should explain
       in plain language what the skill does (think Wikipedia).
-      Avoid marketing speak/adjectives (e.g. words like `best`,`most`, `powerful`, `intuitive`)
+      Avoid marketing speak/adjectives (e.g. words like `best`,`most`, `powerful`, 
+      `intuitive`)
       Avoid usage speak (e.g. `used by thousands`)"
     validations:
       required: false
@@ -50,7 +52,8 @@ body:
     id: category
     attributes:
       label: Skill Category
-      description: "Categories that a particular skill falls into. See https://github.com/luso-me/luso-technology/blob/master/docs/categories.md"
+      description: "Categories that a particular skill falls into. 
+      See https://github.com/luso-me/luso-technology/blob/master/docs/categories.md"
       options:
         - Languages & Frameworks
         - Platforms & Services

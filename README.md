@@ -23,7 +23,14 @@ This repository contains the Skills & Skill Resources definitions that are used 
 
 ## Category
 
-[categories](docs/categories.md)
+One of these:
+
+- Languages & Frameworks
+- Platforms & Services
+- Techniques
+- Tools
+
+For info please see: [categories](docs/categories.md)
 
 # Logos
 

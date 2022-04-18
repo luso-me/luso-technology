@@ -6,6 +6,11 @@ The following is a list of the categories that we currently have.
 
 The four top level categories are fixed for now.
 
+## Approach
+
+If you find a sub-category that we missed, please open an issue in this repo, so we can 
+have a look at it.
+
 ## Languages & Frameworks
 
 |Name|Examples|
