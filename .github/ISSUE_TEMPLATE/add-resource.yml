@@ -41,10 +41,10 @@ body:
       label: Skill Resource Category
       description: "Category that a particular Skill Resource falls into."
       options:
-        - Online Course (e.g. Udemy, Coursera, EdX, etc.)
+        - Online Course (e.g. Udemy, etc.)
         - Books
         - Website / Tutorial / Blog
-        - Video (e.g. YouTube)
+        - Video (e.g. YouTube, etc.)
         - Official Docs
         - Something Else
     validations:
