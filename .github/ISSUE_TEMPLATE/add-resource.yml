@@ -1,0 +1,62 @@
+name: Add Skill Resource
+description: Request to add a Skill Resource
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before requesting to add a Skill Resource, please search for the Skill Resource in the existing issues. 
+        
+        ---
+        
+        Thank you for taking the time to request that we add a new Skill Resource, we really appreciate it! 
+        
+        To get the Skill Resource added as fast as possible, we need some information.
+  - type: input
+    id: name
+    attributes:
+      label: Name of the Skill Resource
+      description: "What is the name of the Skill Resource you want to add?"
+      placeholder: "e.g. Head First Python, 2nd Ed"
+    validations:
+      required: true
+  - type: input
+    id: skill_name
+    attributes:
+      label: Name of the Skill
+      description: "For which Skill do you want to add this resource?"
+      placeholder: "e.g. Python"
+    validations:
+      required: true
+  - type: input
+    id: weblink
+    attributes:
+      label: Link to the Skill Resource
+      description: "Link to the Skill Resource"
+      placeholder: "e.g. https://www.amazon.com/dp/1491919531"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Skill Resource Category
+      description: "Category that a particular Skill Resource falls into."
+      options:
+        - Online Course (e.g. Udemy, Coursera, EdX, etc.)
+        - Books
+        - Website / Tutorial / Blog
+        - Video (e.g. YouTube)
+        - Official Docs
+        - Something Else
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Skill Description
+      description: "Describe the skill in a neutral and factual manner. It should explain
+      in plain language what the skill does (think Wikipedia).
+      Avoid marketing speak/adjectives (e.g. words like `best`,`most`, `powerful`, 
+      `intuitive`)
+      Avoid usage speak (e.g. `used by thousands`)"
+    validations:
+      required: false

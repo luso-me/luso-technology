@@ -1,0 +1,7 @@
+name: Other
+description: Anything else
+body:
+  - type: markdown
+    attributes:
+      value:
+        To get the Skill added as fast as possible, we need some information.
