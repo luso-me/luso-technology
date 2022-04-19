@@ -50,13 +50,17 @@ body:
     validations:
       required: true
   - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation why it should be added
+      description: "Please provide us with a motivation why you think this would be a 
+      great resource."
+    validations:
+      required: true
+  - type: textarea
     id: description
     attributes:
-      label: Skill Description
-      description: "Describe the skill in a neutral and factual manner. It should explain
-      in plain language what the skill does (think Wikipedia).
-      Avoid marketing speak/adjectives (e.g. words like `best`,`most`, `powerful`, 
-      `intuitive`)
-      Avoid usage speak (e.g. `used by thousands`)"
+      label: Skill Resource Description
+      description: "Brief description of the Skill Resource"
     validations:
       required: false
