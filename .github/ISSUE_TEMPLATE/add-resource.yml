@@ -31,7 +31,7 @@ body:
     id: weblink
     attributes:
       label: Link to the Skill Resource
-      description: "Link to the Skill Resource"
+      description: "Link to the Skill Resource. No affiliate links please."
       placeholder: "e.g. https://www.amazon.com/dp/1491919531"
     validations:
       required: true
@@ -41,11 +41,11 @@ body:
       label: Skill Resource Category
       description: "Category that a particular Skill Resource falls into."
       options:
-        - Online Course (e.g. Udemy, etc.)
         - Books
-        - Website / Tutorial / Blog
-        - Video (e.g. YouTube, etc.)
         - Official Docs
+        - Online Course (e.g. Udemy, etc.)
+        - Video (e.g. YouTube, etc.)
+        - Website / Tutorial / Blog
         - Something Else
     validations:
       required: true
@@ -55,6 +55,15 @@ body:
       label: Motivation why it should be added
       description: "Please provide us with a motivation why you think this would be a 
       great resource."
+    validations:
+      required: true
+  - type: dropdown
+    id: price_category
+    attributes:
+      label: What does it cost to access this resource?
+      options:
+        - Free
+        - Paid
     validations:
       required: true
   - type: textarea
