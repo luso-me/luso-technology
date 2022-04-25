@@ -1,0 +1,38 @@
+name: Change Skill
+description: Request to change a Skill
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before requesting to change a Skill, please search for the Skill in the existing issues. 
+        
+        ---
+        
+        Thank you for taking the time to request that we change a new Skill, we really appreciate it! 
+        
+        To get the Skill changed as fast as possible, we need some information.
+  - type: input
+    id: name
+    attributes:
+      label: Name of the Skill
+      description: "What is the name of the Skill you want to change?"
+      placeholder: "e.g. Python"
+    validations:
+      required: true
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: What do you want to change about this Skill?
+      options:
+        - Update
+        - Delete
+    validations:
+      required: true
+  - type: textarea
+    id: changes_requested
+    attributes:
+      label: What changes are required to this Skill? And why?
+      description: "Please provide us with the details that needs to be changed as well 
+       as a motivation for why it's need to be changed."
+    validations:
+      required: true

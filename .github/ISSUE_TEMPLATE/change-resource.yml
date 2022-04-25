@@ -1,0 +1,54 @@
+name: Change Skill Resource
+description: Request to change a Skill Resource
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before requesting to change a Skill Resource, please search for the Skill Resource in the existing issues. 
+        
+        ---
+        
+        Thank you for taking the time to request that we change a new Skill Resource, we really appreciate it! 
+        
+        To get the Skill Resource changed as fast as possible, we need some information.
+  - type: input
+    id: name
+    attributes:
+      label: Name of the Skill Resource
+      description: "What is the name of the Skill Resource you want to change?"
+      placeholder: "e.g. Head First Python, 2nd Ed"
+    validations:
+      required: true
+  - type: input
+    id: skill_name
+    attributes:
+      label: Name of the Skill
+      description: "For which Skill is this resource?"
+      placeholder: "e.g. Python"
+    validations:
+      required: true
+  - type: input
+    id: weblink
+    attributes:
+      label: Link to the Skill Resource
+      description: "Link to the Skill Resource. No affiliate links please."
+      placeholder: "e.g. https://www.amazon.com/dp/1491919531"
+    validations:
+      required: true
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: What do you want to change about this Skill Resource?
+      options:
+        - Update
+        - Delete
+    validations:
+      required: true
+  - type: textarea
+    id: changes_requested
+    attributes:
+      label: What changes are required to this Skill Resource? And why?
+      description: "Please provide us with the details that needs to be changed as well 
+       as a motivation for why it's need to be changed."
+    validations:
+      required: true
